@@ -1,0 +1,17 @@
+{
+  "name": "sample angular",
+  "version": "1.0.0",
+  "description": "sample angular",
+  "main": "client/main.js",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.15",
+    "angular": "^1.5.8",
+    "moment": "^2.14.1",
+    "notie": "^3.9.2",
+    "numeral": "^1.5.3",
+    "pluralize": "^3.0.0",
+    "underscore": "^1.8.3"
+  },
+  "author": "Vercryger",
+  "license": "ISC"
+}
